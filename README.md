@@ -1,4 +1,3 @@
-[
 # 🕹️Quinnipiac Arcade
 Unity Example Project
 
@@ -38,12 +37,12 @@ private void Update()
 ---
 
 # Pause Menu
-The arcade machine **Start** button can be used to open a pause menu in your game. The example project has a Pause Manager singleton that can be used to freeze gameplay and display a menu for selecting options or exiting the game. 
+The arcade machine **Start** button can be used to open a pause menu in your game. The example project has a Pause Manager prefab that can be used to freeze gameplay and display a menu for selecting options or exiting the game. 
 To add support for the Pause Menu, simply add the **Pause Controller** prefab to your scene.
 > [!NOTE]
 > You can exit your game at any time using `Application.Quit();` in a Unity script. When your game closes, the Launcher will be displayed.
 
-
+---
 
 > [!TIP]
 > If you're ready to test your game on the arcade machine just ask Professor Blake to install it!
