@@ -57,12 +57,16 @@ Inside the root directory for your game, you must include an `info.txt` file. It
     "Team":[
         "Professor Blake",
 	"Ripley"
-    ]
+    ],
+    "QR_URL": "https://mywebspace.quinnipiac.edu/cblake/portfolio/",
+    "QRLabel": "See My Other Games:"
 }
 ```
 - GameName: The name of your game as displayed on the Launcher screen.
 - Description: The description that should be shown when your game is highlighted on the Launcher screen.
 - Team: A comma separated list of your team members.
+- QR_URL: (Optional) A URL you would like a QR code to direct players to.
+- QRLabel: (Optional) The label to display above your QR Code.
 
 ## ✅ Launcher Capsule Art
 The capsule art that is shown on the launcher should be **600px X 288px** and needs to be in a `Media` folder in the game folders root directory. The file name doesn't matter, ex: `My New Game/Media/myImage.png`
