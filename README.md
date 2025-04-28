@@ -75,3 +75,12 @@ The capsule art that is shown on the launcher should be **600px X 288px** and ne
 
 > [!TIP]
 > If you're ready to test your game on the arcade machine just ask Professor Blake to install it!
+
+---
+
+### Troubleshooting
+If you're experiencing errors with your game or the launcher, check the below troubleshooting tips.
+- "Data Folder Not Found" Error on Game Launch
+
+![image](https://github.com/user-attachments/assets/08a3b112-2592-4e14-aa6e-d8e703f94585)
+> Your game executable name may differ from the supporting data folders in the build. Rename your executable to match the data folder name.
