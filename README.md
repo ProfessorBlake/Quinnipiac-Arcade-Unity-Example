@@ -29,6 +29,9 @@ private void Update()
 
 }
 ```
+If you just want the example InputManager file for your project, [download the file here](ProjectSettings/InputManager.asset)
+> [!NOTE]
+> This input system was created with Unitys Old Input system. Support for the new system is coming soon. 
 
 ---
 
